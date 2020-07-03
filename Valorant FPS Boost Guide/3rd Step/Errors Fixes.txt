@@ -1,0 +1,16 @@
+
+
+Usual fixes for ISLC when there is errors:
+
+First : Run in a CMD (command prompt with admin privilege) 2 times :
+LODCTR /R and reboot
+
+If still not working, we check if you have disabled performance counter and enable them
+
+lodctr /q | find "Disabled"
+
+lodctr /e:PerfOS
+
+Probably need a reboot.
+
+

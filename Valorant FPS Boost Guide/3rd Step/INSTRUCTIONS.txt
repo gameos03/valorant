@@ -1,0 +1,8 @@
+Open ISLC as adminstrator by right clicking on it then click "Run as admin" then check the
+option "Custom timer resolution" and make wanted timer resolution to "0.50" then set
+ISLC polling rate to "10000" then make "Free memory is lower than" to half the number 
+you see beside total system memory so for me that was 8000mb which is 8gb ram so i set
+"Free memory is lower than" to 4000mbs after thats done, click the start button
+and then MINIMIZE the program DONT close it while playing games so it actually works.
+If you have any problems  with following these steps just comment on the video
+and I will reply.
